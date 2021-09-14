@@ -1,2 +1,2 @@
 # Summer-Olympics-Data-Analysis
-This repository contains python notebook for Inventory Management System which is done as a part of Internship at Elite Techno Groups
+This repository contains a python notebook for Summer Olympics Data Analysis which is done as a part of an Internship at Elite Techno Groups. For this Assignment, Summer Olympics Dataset is taken which is present in the repository, It contains 31,165 records and 9 Columns(Year, City, Sport, Discipline, Athlete, Country, Gender, Event, and Medal). I explored different functions of Pandas Dataframe and answered the questions given.
